@@ -62,15 +62,6 @@
 
 ---
 
-## 🛡️ High Availability & DDoS Mitigation
-- Device failover, Link failover, Session failover
-- Virtual MAC addressing με ARP updates για seamless recovery
-- Arbor Sightline για ανίχνευση & mitigation επιθέσεων
-- Manual & automatic mitigation flows
-- Υποστήριξη future expansion: scrubbing routers, API integration
-
----
-
 ## 🚀 Closing
 > Η λύση FWaaS του ΕΔΥΤΕ προσφέρει ασφάλεια, διαθεσιμότητα, ευκολία και απλοποίηση της διαχείρισης, χωρίς επιπλέον κόστος ή προσπάθεια από τους φορείς.
 
